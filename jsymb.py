@@ -122,6 +122,6 @@ if __name__ == "__main__":
         product = prod(state)
 
         cuml += product * (-2) ** (ccs - 1)
-    
+
 
     print(cuml)
